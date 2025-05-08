@@ -97,24 +97,14 @@ homevibes/
  SEO optimization
 
 🧪 Testing
-bash
-Copy
-Edit
+
+```
 npm test
+```
+
 (Optional — depends on testing setup like Jest or React Testing Library)
 
 🌐 Deployment
 You can deploy using:
 
-Vercel
-
 Netlify
-
-GitHub Pages
-
-Example for Vercel:
-
-bash
-Copy
-Edit
-vercel
