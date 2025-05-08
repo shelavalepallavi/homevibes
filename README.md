@@ -41,36 +41,32 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/homevibes.git
+   git clone https://github.com/shelavalepallavi/homevibes.git
    cd homevibes
 Install dependencies:
-
-bash
-Copy
-Edit
+```
 npm install
-Start the development server:
+```
 
-bash
-Copy
-Edit
+Start the development server:
+```
 npm run dev
+```
+
 Or for Create React App:
 
-bash
-Copy
-Edit
+```
 npm start
+```
+
 Visit in Browser:
 
-arduino
-Copy
-Edit
 http://localhost:3000
+
+
 📁 Folder Structure
-graphql
-Copy
-Edit
+
+````
 homevibes/
 │
 ├── public/                 # Static files
@@ -84,6 +80,9 @@ homevibes/
 ├── tailwind.config.js      # Tailwind CSS config (if used)
 ├── package.json
 └── README.md
+
+````
+
 ✅ To-Do / Roadmap
  Core UI and layout
 
