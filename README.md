@@ -30,7 +30,6 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots or GIFs here to visually demonstrate your app_
 
 ![Homepage Screenshot](./assets/homepage.png)
 
